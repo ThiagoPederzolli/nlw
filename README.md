@@ -13,4 +13,4 @@ Nunjucks
 SQL
 
 Aprendemos ao longo da semana tanto conceitos de Front-end quanto de Back-end.
-O site é uma plataforma de cadastro de empresas que trabalham com materais reclicláveis ou que não devem ser descartados em lixeiras comuns.
+O site é uma plataforma de cadastro de empresas que trabalham com materais recicláveis ou que não devem ser descartados em lixeiras comuns.
