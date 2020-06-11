@@ -53,7 +53,3 @@ $ npm install nunjucks
 
 ---
 Desenvolvido por © Thiago Pederzolli Machado da Silva
-=======
-Aprendemos ao longo da semana tanto conceitos de Front-end quanto de Back-end.
-O site é uma plataforma de cadastro de empresas que trabalham com materais recicláveis ou que não devem ser descartados em lixeiras comuns.
->>>>>>> 8365750956c532cbc07dcc76aa3285bb37ccd203
