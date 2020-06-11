@@ -13,6 +13,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 🔖 Sobre
 
 O projeto **Ecoleta** é uma plataforma para empresas que coletam resíduos, materiais recicláveis ou produtos que necessitam de descarte específico. O site foi criado durante o evento **Next Level Week 1.0** da Rocketseat, com a intenção de ensinar através da prática como criar do zero um site, utilizando ferramentas de Front-end e Back-end.
@@ -52,3 +53,7 @@ $ npm install nunjucks
 
 ---
 Desenvolvido por © Thiago Pederzolli Machado da Silva
+=======
+Aprendemos ao longo da semana tanto conceitos de Front-end quanto de Back-end.
+O site é uma plataforma de cadastro de empresas que trabalham com materais recicláveis ou que não devem ser descartados em lixeiras comuns.
+>>>>>>> 8365750956c532cbc07dcc76aa3285bb37ccd203
