@@ -8,8 +8,8 @@
 
 # Indice
 - [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Como baixar o projeto](#como-baixar-o-porjeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como baixar o projeto](#-como-baixar-o-porjeto)
 
 ---
 
