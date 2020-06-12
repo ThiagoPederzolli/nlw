@@ -39,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 
 # clonar o repositório
-$ git clone https://https://github.com/ThiagoPederzolli/nlw
+$ git clone https://github.com/ThiagoPederzolli/nlw
 
 # entrar no diretório
 $ cd nlw
